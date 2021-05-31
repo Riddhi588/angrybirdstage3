@@ -60,6 +60,6 @@ function draw(){
     log5.display();
 
     bird.display();
-    fill("green");
+    fill("brown");
     platform.display();
 }
